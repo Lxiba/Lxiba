@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Lxiba
-- 👀 I’m interested in discovering new apps and their features through coding.
-- 🌱 I’m currently learning Java and Python.
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I like sport bikes
+Heyy!
+I'm currently studying Software Engineering and here you will find projects of my interest. 
+Have fun looking through my projects ^-^
 
 <!---
 Lxiba/Lxiba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
