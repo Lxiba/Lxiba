@@ -1,5 +1,7 @@
-Heyy!
-I'm currently studying Software Engineering and here you will find projects of my interest. 
+Heyy! 🐱‍👤
+
+I'm currently studying Software Engineering and here you will find projects of my interest.
+
 Have fun looking through my projects ^-^
 
 <!---
