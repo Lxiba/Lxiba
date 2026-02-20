@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=C77DFF&center=true&vCenter=true&width=800&lines=Software+Engineering+Student;Full+Stack+Developer;Building+AI-Powered+Applications;Welcome+to+my+GitHub+Universe+^-^"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=C77DFF&center=true&vCenter=true&width=800&lines=Software+Engineering+Student;Full+Stack+Developer;Building+AI-Powered+Applications;Enjoy+my+GitHub+Universe+^-^"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284068-9d4edd-glow-divider.gif"/>
