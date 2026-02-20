@@ -24,8 +24,6 @@
 ![SQL](https://img.shields.io/badge/SQL-5a189a?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-240046?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
----
-
 ## *⚙️ Frameworks & Libraries*
 
 ![React](https://img.shields.io/badge/React-5a189a?style=for-the-badge&logo=react&logoColor=white)
@@ -42,7 +40,6 @@
 ![JUnit](https://img.shields.io/badge/JUnit-9d4edd?style=for-the-badge&logo=java&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-5a189a?style=for-the-badge&logo=apachemaven&logoColor=white)
 
----
 
 ## *🛠 Tools & Platforms*
 
@@ -56,10 +53,11 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284103-purple-divider.gif"/>
 
-# 🧠 Contribution Graph
+# 🧠 GitHub Stats
 
 <p align="center">
 
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Lxiba&layout=compact&bg_color=000000&title_color=c77dff&text_color=ffffff&icon_color=9d4edd&hide_border=true"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lxiba&bg_color=000000&color=c77dff&line=9d4edd&point=ffffff&area=true&hide_border=true"/>
 
 </p>
