@@ -1,7 +1,7 @@
 <!-- HEADER ANIMATION -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a0ca3,25:7209b7,50:9d4edd,75:5a189a,100:240046&height=250&section=header&text=Laiba%20Asif%20🐱‍👤&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a0ca3,25:7209b7,50:9d4edd,75:5a189a,100:240046&height=250&section=header&text=Welcome%20🐱‍👤&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 <p align="center">
@@ -56,15 +56,11 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284103-purple-divider.gif"/>
 
-# 📊 GitHub Stats
+# 🧠 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Lxiba&show_icons=true&theme=radical&hide_border=true&title_color=c77dff&icon_color=9d4edd"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lxiba&theme=radical&layout=compact&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lxiba&theme=radical&layout=compact" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lxiba&bg_color=000000&color=c77dff&line=9d4edd&point=ffffff&area=true&hide_border=true"/>
 
 </p>
 
