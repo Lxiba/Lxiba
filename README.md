@@ -3,12 +3,14 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a0ca3,25:7209b7,50:9d4edd,75:5a189a,100:240046&height=200&section=header&text=Welcome%20🐱‍👤&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=C77DFF&center=true&vCenter=true&width=800&lines=Software+Engineering+Student;Full+Stack+Developer;Building+AI-Powered+Applications;Enjoy+my+GitHub+Universe+^-^"/>
 </p>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284068-9d4edd-glow-divider.gif"/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Lxiba&label=Profile%20Views&color=9d4edd&style=for-the-badge"/>
+</p>
 
 # ✨ About Me
 
