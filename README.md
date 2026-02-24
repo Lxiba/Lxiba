@@ -10,9 +10,23 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284068-9d4edd-glow-divider.gif"/>
 
+# ✨ About Me
+
+✧ Software Engineering & Management student who blends technical depth with strategic thinking  
+
+✧ I build projects I genuinely believe should exist — then deploy them so others who think like me can actually use them  
+
+✧ AI fascinates me — I love experimenting with new frameworks, tools, and anything that pushes intelligent systems forward  
+
+✧ Painter + manhwa reader in my free time 🎨 — creativity fuels my UI design, aesthetics, and attention to visual detail  
+
+✧ Always learning, always building, always refining — growth mode never switches off 📈
+
+<img src="https://user-images.githubusercontent.com/74038190/212284068-9d4edd-glow-divider.gif"/>
+
 # 🛠 Tech Stack
 
-## *💻 Programming Languages*
+## *Programming Languages*
 
 ![Python](https://img.shields.io/badge/Python-3a0ca3?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-7209b7?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -24,7 +38,7 @@
 ![SQL](https://img.shields.io/badge/SQL-5a189a?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-240046?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-## *⚙️ Frameworks & Libraries*
+## *Frameworks & Libraries*
 
 ![React](https://img.shields.io/badge/React-5a189a?style=for-the-badge&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-240046?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -41,7 +55,7 @@
 ![Maven](https://img.shields.io/badge/Maven-5a189a?style=for-the-badge&logo=apachemaven&logoColor=white)
 
 
-## *🛠 Tools & Platforms*
+## *Tools & Platforms*
 
 ![Jenkins](https://img.shields.io/badge/Jenkins-5a189a?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-3a0ca3?style=for-the-badge&logo=kubernetes&logoColor=white)
