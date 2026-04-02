@@ -74,7 +74,6 @@
 <p align="center">
 
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Lxiba&layout=compact&bg_color=000000&title_color=c77dff&text_color=ffffff&icon_color=9d4edd&hide_border=true"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lxiba&bg_color=000000&color=c77dff&line=9d4edd&point=ffffff&area=true&hide_border=true"/>
 
 </p>
 
